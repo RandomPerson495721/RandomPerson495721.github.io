@@ -115,13 +115,12 @@ analytics:
 author:
   name             : "James Partin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science Major at Michigan State University (Looking for internship starting fall 2024)."
-  location         : "East Lansing, Michigan"
-  email            : "james@partin.dev"
+  bio              : "Computer Science Major at Michigan State University."
+  location         : "South Lyon, Michigan"
+  email            : "jamesaustinpartin@gmail.com"
   links:
-    - label: "james@partin.dev"
+    - label: ""
       icon: "fas fa-fw fa-envelope-square"
-     # url: "mailto:james@partin.dev"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
