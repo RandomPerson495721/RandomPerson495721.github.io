@@ -119,7 +119,7 @@ author:
   location         : "East Lansing, Michigan"
   email            : "james@partin.dev"
   links:
-    - label: "Email"
+    - label: "james@partin.dev"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:james@partin.dev"
     - label: "Website"
