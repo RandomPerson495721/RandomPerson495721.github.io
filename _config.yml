@@ -121,7 +121,7 @@ author:
   links:
     - label: "james@partin.dev"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:james@partin.dev"
+     # url: "mailto:james@partin.dev"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
